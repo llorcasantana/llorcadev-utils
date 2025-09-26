@@ -2,6 +2,9 @@
 
 Utils in TypeScript to use. Currently in development.
 
+[![npm version](https://badge.fury.io/js/llorcadev-utils.svg)](https://badge.fury.io/js/llorcadev-utils) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
+
+
 ## Overview
 
 **llorcadev-utils** is a collection of reusable TypeScript utility functions designed to simplify common development tasks. The utilities are easy to integrate into any TypeScript project and are being actively developed and improved.
