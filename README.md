@@ -31,10 +31,10 @@ yarn add llorcadev-utils
 Import the utility functions you need in your TypeScript code:
 
 ```typescript
-import { myUtilityFunction } from 'llorcadev-utils';
+import { useFieldReseter } from 'llorcadev-utils';
 
 // Example usage
-myUtilityFunction(args);
+useFieldReseter(args);
 ```
 
 ## Documentation
