@@ -42,7 +42,7 @@ useFieldReseter(args);
 
 ## Documentation
 
-Documentation for each utility function will be provided as the project evolves. For now, check the source code and JSDoc comments for details.
+Detailed documentation for each utility function is available in the `docs` folder of the repository. You can also find examples and usage instructions there.
 
 ## Contributing
 
